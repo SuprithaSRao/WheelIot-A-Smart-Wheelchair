@@ -5,7 +5,6 @@ We know that the needs of many people with disabilities can be overcome with pow
 
           As per a survey ASIA has a total of 400 million disabled people and in particular INDIA, has 20.68 million people. All these either use the conventional wheelchair or the ones that can afford costly wheelchairs priced over 50,000/-. Though we have evolved in the field of health care and technology, but we are still not good enough to solve difficulties of this huge sector of population that cannot afford power wheelchairs. 
           
-          ![image](https://user-images.githubusercontent.com/67794743/228717751-3cabbaba-4ea6-4ff0-8342-1bff76814773.png)
 So, WheelIoT is a way for overcoming these issues and helping out that sector of people who really are in need of such facility. The main objective of this project is to felicitate and increase the movement of people who are handicapped and the ones who are not able to move freely.
 
 Therefore, this design of a wheelchair which is controlled by a joystick includes obstacle avoidance technique accompanied with an emergency button and a health monitoring system.
